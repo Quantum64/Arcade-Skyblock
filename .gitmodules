@@ -1,0 +1,3 @@
+[submodule "ArcadeAPI"]
+	path = ArcadeAPI
+	url = https://github.com/Quantum64/ArcadeAPI

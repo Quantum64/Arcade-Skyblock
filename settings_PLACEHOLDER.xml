@@ -1,0 +1,11 @@
+<!-- Rename this to settings.xml and fill out your GitHub username and password before attempting to run the deploy script -->
+
+<settings>
+-  <servers>
+-    <server>
+-      <id>github</id>
+-      <username>YOUR-USERNAME</username>
+-      <password>YOUR-PASSWORD</password>
+-    </server>
+-  </servers> 
+-</settings>
